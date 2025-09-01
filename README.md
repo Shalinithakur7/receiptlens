@@ -1,7 +1,16 @@
 # ReceiptLens AI - Smart Receipt Digitizer
 
+
 ReceiptLens AI is a **Streamlit web app** that extracts **key information** from receipt images using the **Gemini API**.  
 Instead of just raw OCR, it identifies:
+
+<img width="1376" height="815" alt="image" src="https://github.com/user-attachments/assets/9c397895-1c43-439f-937b-3bbbcf909717" />
+
+<img width="1430" height="858" alt="image" src="https://github.com/user-attachments/assets/cbdeddaf-0107-4c7d-90ce-5c21593beebb" />
+
+<img width="937" height="826" alt="image" src="https://github.com/user-attachments/assets/6ccf63aa-1d85-47ea-810f-6971099469ff" />
+
+
 
 - **Store name**
 - **Date**
