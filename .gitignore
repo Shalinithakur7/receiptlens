@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+myenv/
+
+# Ignore secrets file
+.streamlit/secrets.toml
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+
+.vscode/
